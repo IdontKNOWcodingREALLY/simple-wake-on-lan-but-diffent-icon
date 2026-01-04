@@ -1,7 +1,4 @@
-<img src="icon.png" width="96" align="right" alt="App Icon"/>
-
-# SimpleWoL (Personal Tweak)
-
+# SimpleWoL-But-Different-Icon
 > **Note:** This is a personal modified version of the original [SimpleWoL](https://github.com/herzhenr/simple-wake-on-lan) project created by [herzhenr](https://github.com/herzhenr).
 
 > **Note:** ok so I need you to listen this repo is a hot garbage so if you want the app sure take it will work good and have different icon, but only if you use square icon won't work good for you use if you use circle icon I don't think I will do anything in this as it works for me.
