@@ -76,10 +76,10 @@ flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/icon.png"  # Changed to match your file name
-  min_sdk_android: 21 
-  adaptive_icon_background: "#ffffff" 
+  min_sdk_android: 21
+  adaptive_icon_background: "#ffffff"
   adaptive_icon_foreground: "assets/icon.png" # Changed here too
-  
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
