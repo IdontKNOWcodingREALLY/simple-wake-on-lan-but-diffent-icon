@@ -22,7 +22,6 @@ jobs:
       - name: Generate App Icons
         run: dart run flutter_launcher_icons
       - name: Build Flutter (APK)
-        # We build 'debug' because we don't have the signing keys
         run: flutter build apk --debug
       - uses: actions/upload-artifact@v3
         with:
