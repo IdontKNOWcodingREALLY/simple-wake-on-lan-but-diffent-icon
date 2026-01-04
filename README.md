@@ -1,4 +1,4 @@
-<img src="internet.png" width="96" align="right" alt="App Icon"/>
+<img src="icon.png" width="96" align="right" alt="App Icon"/>
 
 # SimpleWoL (Personal Tweak)
 
