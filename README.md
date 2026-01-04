@@ -10,7 +10,7 @@
   <a href="https://www.dart.dev"><img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart"></a>
 </p>
 
-Simple Wake on Lan is a simple cross-platform flutter application for Android and iOS to send Wake On Lan packets to a device.
+Simple Wake on Lan is a simple cross-platform flutter application for Android to send Wake On Lan packets to a device.
 
 ## Usage
 Wake on LAN (WoL) is a network protocol that allows a device to be turned on or awakened remotely
